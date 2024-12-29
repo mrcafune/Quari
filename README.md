@@ -4,9 +4,7 @@ CLI ChatGPT Front End that utilizes the ChatGPT API
 
 ![Screenshot 2024-07-20 at 1 04 17 AM](https://github.com/user-attachments/assets/1f210794-7a87-4f1c-a039-866b0faabad3)
 
-**Quari** is the successor to KittyChat, a CLI frontend for ChatGPT utilizing their API.
-
-<img width="523" alt="Screen Shot 2023-06-27 at 10 24 54 AM" src="https://github.com/mrcafune/Quari/assets/101951803/56bbcbea-4312-4c55-982e-6485e35cf18a">
+**Quari** is the successor to KittyChat, a CLI, API dependent frontend for ChatGPT.
 
 **Quari** is an interactive Python application that integrates OpenAI's models to create a highly engaging, AI-driven conversation interface. The application allows users to engage in dynamic conversations with a virtual assistant, right from the comfort of their terminal.
 
