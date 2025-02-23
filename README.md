@@ -6,20 +6,17 @@ CLI ChatGPT Front End that utilizes the ChatGPT API
 
 **Quari** is the successor to KittyChat, a CLI, API dependent frontend for ChatGPT.
 
-**Quari** is an interactive Python application that integrates OpenAI's models to create a highly engaging, AI-driven conversation interface. The application allows users to engage in dynamic conversations with a virtual assistant, right from the comfort of their terminal.
-
-Built with Python and using OpenAI's API, Quari delivers thoughtful and contextually relevant responses, offering a unique and exciting conversational experience.
+**Quari** is an interactive Python application that integrates OpenAI's models to create a CLI conversation interface.
 
 ## 🔑 Key Features
 
-- **Interactive Conversations:** Engage in real-time, dynamic conversations with the virtual assistant
 - **Color-coded Dialogue:** Messages are color-coded for a more visual and intuitive user experience. 
 - **Session Management:** Start a new conversation or continue from a saved session. The application can store your conversation history for later reference.
-- **Command Options:** Use various commands for improved interactivity and control over the application.
+- **Command Options:** Use various commands for improved interactivity and control over the application by typing -help.
 
 ## 🖥️ Usage
 
-To use Quari, you will need to have an API key from OpenAI. On first-time setup, you will be prompted for your API key and desired model.
+To use Quari, you will need to have an API key from OpenAI. On first-time setup, you will be prompted for your API key and desired model.  You can also run a reset command anytime to enter a new key, etc.
 
 After starting the application, you can choose to start a new conversation or load a previous session. The application will guide you with the available commands and options by entering `-help`. During the conversation, type your message after the "Message:" prompt, and the virtual assistant will respond accordingly.
 
